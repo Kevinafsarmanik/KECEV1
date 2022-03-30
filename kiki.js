@@ -1146,12 +1146,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Youtube Owner',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 838-0884-0711'
+                                    phoneNumber: '+62 838-0290-5703'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1801,7 +1801,7 @@ break
                 yol.sendText(m.chat, ` *Lahir :* ${anu.message.tgl_lahir}\n *Kala Tinantang :* ${anu.message.kala_tinantang}\n *Info :* ${anu.message.info}\n *Catatan :* ${anu.message.catatan}`, m)
             }
             break
-            case  'sc' :`https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa`
+            case  'sc' :`https://kevinafsarmanik.github.io/nino-wife.github.io/`
             
             case 'harisangar': case 'taliwangke': {
                 if (!text) throw `Example : ${prefix + command} 7, 7, 2005`
@@ -2536,7 +2536,7 @@ case 'menu':
 	await yol.send5ButGif(from, `┌── *Info User*\n│🗿Name :${pushname}\n│🗿Bio :Not Detected\n│🗿Nomor :${sender.split("@")[0]}\n│😱no beban :http://wa.me/${sender.split("@")[0]}\n│🌱User : ${isCreator ? `Owner ${ownername}` : isPremium ? `Special User ${botname}` : `${botname}`}\n│😎Status : ${isCreator ? 'Owner (100jt)' :  'Gratisan'}\n│💌Limit Harian : '5':\n│📚Pacar user : '100jt'\n└───────\n\n┌── *Info Bot*\n│⚖️Libray : Baileys\n│🤍 Name Bot : ${botname}\n│💙Creator : ${ownername}\n│🖤Author : DikaArdnt.\n│💛 User Total : ${Object.keys(global.db.data.users).length}\n└───────` + '\n' + lang.menu(prefix) , `${footer}`, [{"urlButton": {"displayText": "YouTube Owner","url": `${sc}`}},{"urlButton": {"displayText": "Instagram Owner","url": `${myweb}`}},{"quickReplyButton": {"displayText": "Sewa Bot","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}}] )
 	break
 case 'sewabot': case 'donasi': case 'sewa': case 'buypremium': case 'donate': {
-                yol.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/68f2b07f986f235538e52.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via gopay permanen\n⭔ 20k via pulsa  permanen\n\n Premium Price Bot\n⭔ 7k perminggu bulan\n\nPayment can be via Paypal/gopay/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6283808840711 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://www.paypal.me/Cakhaho\n⭔ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m }) 
+                yol.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/68f2b07f986f235538e52.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via gopay permanen\n⭔ 20k via pulsa  permanen\n\n Premium Price Bot\n⭔ 7k perminggu bulan\n\nPayment can be via Paypal/gopay/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6283802905703 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://www.paypal.me/Cakhaho\n⭔ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m }) 
     }
 	break
     case 'grupowner':
