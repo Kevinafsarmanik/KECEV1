@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283184072215']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
-global.ownername = 'Vraaa keren'
-global.botname = 'kikibot-Md'
-global.footer = 'kikibot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/kikollyn'
+global.owner = ['6283802905703','6283802905703','6283802905703']
+global.ownernomer = '6283802905703'
+global.premium = ['6283802905703']
+global.ownername = 'Kepin katanya'
+global.botname = 'xhivier-Md'
+global.footer = 'xhivier-Md'
+global.email = 'Kevinaafsar@gmail.com'
+global.ig = 'https://instagram.com/kevinafsar_'
 global.region = 'thailand'
 
 // Keperluan buttons
-global.myweb = 'http://www.instagram.com/kikollyn'
-global.sc = 'https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'
-global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'
+global.myweb = 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
+global.sc = 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
+global.grupowner ='https://chat.whatsapp.com/JguOziREgn19v3A8admVx5'
 // Wm
-global.packname = 'Kikibot'
-global.author = 'Botnya vraaa keren'
+global.packname = 'xhivierbot'
+global.author = 'Botnya kepin katanya'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')
