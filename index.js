@@ -116,12 +116,12 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '🐼Instagram',
-                                    url: 'http://www.instagram.com/kikollyn'
+                                    url: 'http://www.instagram.com/kevinafsar_'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: '🧸Youtube',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'Gak punya'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -151,16 +151,16 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: Ttes,
-                            hydratedFooterText: 'Leaving Message By Vraaa keren',
+                            hydratedFooterText: 'Leaving Message By Kevin Ganteng',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '🐼 Instagram',
-                                    url: 'http://www.instagram.com/kikollyn'
+                                    url: 'http://www.instagram.com/kevinafsar_'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: '🧸Youtube',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'Gak punya'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -174,7 +174,7 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Dadah Bro',
+                                    displayText: 'KELUAR KAU BAJINGAN 🗿',
                                     id: 'Bye'
                                 }
                             }]
