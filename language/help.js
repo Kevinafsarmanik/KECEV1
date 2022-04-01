@@ -277,8 +277,8 @@ return`
 │• Nabi Muhammad Saw.
 │• Ortu gue
 │• Kawan² ku
-│• Salsaabila (my love)
-│• Kiki Alwiansya (gue)
+│• pacar kevin
+│• Kevin afsar (Jomblo abadi🗿)
 └───────
 `
 }
