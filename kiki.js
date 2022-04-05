@@ -2540,7 +2540,7 @@ case 'sewabot': case 'donasi': case 'sewa': case 'buypremium': case 'donate': {
     }
 	break
     case 'grupowner':
-m.reply(`https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa`)
+m.reply(`https://chat.whatsapp.com/JWVl9J1sIxMG9PwyIMyQN6`)
 break
             default:
                 if (budy.startsWith('=>')) {
