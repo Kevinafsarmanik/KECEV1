@@ -112,7 +112,7 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: Tod,
-                            hydratedFooterText: 'Welcome Message Vraa Keren',
+                            hydratedFooterText: 'Welcome Message Kevin afsar',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '🐼Instagram',
@@ -174,7 +174,7 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'KELUAR KAU BAJINGAN 🗿',
+                                    displayText: 'SEMOGA KHUSNUL KHATIMAH🤲',
                                     id: 'Bye'
                                 }
                             }]
